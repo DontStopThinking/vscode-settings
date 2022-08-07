@@ -1,0 +1,32 @@
+{
+  "telemetry.telemetryLevel": "off",
+  "extensions.ignoreRecommendations": true,
+  "window.zoomLevel": 0,
+  "files.autoSave": "off",
+  "editor.renderLineHighlight": "line",
+  "files.trimTrailingWhitespace": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.fontFamily": "Liberation Mono",
+  "editor.lineHeight": 0,
+  "editor.fontLigatures": true,
+  "files.insertFinalNewline": true,
+  "editor.fontSize": 13,
+  "editor.bracketPairColorization.enabled": true,
+  "explorer.compactFolders": false,
+  "terminal.integrated.fontSize": 13,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.quickSuggestions": {
+    "other": "inline"
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "window.commandCenter": true,
+  "editor.cursorWidth": 4,
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#37a422"
+  }
+}
